@@ -52,6 +52,7 @@ Please select a mode:
                     if check_o(int(x)):
                         list_game[int(x)] = "x"
                         break
+# Nguyễn Ngọc Vũ
 
     def com():
         while True:
